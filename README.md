@@ -1,4 +1,5 @@
 # first-restaurant
 Fresher Project | One of my first's
 
-Simple project practicing floats, styling, and layout.
+Rough around the edge's project
+Simple:: practicing floats, styling, and layout.
